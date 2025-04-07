@@ -5,9 +5,9 @@
 
 - 💼 Self-taugth software engineer.
 
-- 🌱 I’m currently learning a student at Microverse.
+- 🌱 I’m currently a freelancer.
 
-- ❤️ I love solving problems using Javascript, React and Php.
+- ❤️ I love solving problems using Javascript, React, Nextjs, Typescript, and Node.js(Expressjs).
 
 - 💬 Ask me about anything [here](https://github.com/Achilles-Dev/Achilles-Dev/issues)
 
